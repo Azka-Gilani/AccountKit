@@ -32,7 +32,7 @@
 <script>
 AccountKit_OnInteractive = function() {
   AccountKit.init({
-    appId: '<APP_ID>',
+    appId: '1790581051207863',
     state: '<?php echo bin2hex(openssl_random_pseudo_bytes(32)); ?>',
     version: 'v1.0'
   });
