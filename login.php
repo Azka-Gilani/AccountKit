@@ -1,6 +1,6 @@
 <?php
-$app_id = '<APP_ID>';
-$secret = '<SECRET>';
+$app_id = '1790581051207863';
+$secret = '5054b7361b383a7cc5ec5b30e267027e';
 
 function doCurl($url) {
   $ch = curl_init();
